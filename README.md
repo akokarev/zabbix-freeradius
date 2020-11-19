@@ -1,7 +1,7 @@
 # zabbix-freeradius
 
 
-Zabbix template for Freeradius 2.x 
+Zabbix template for Freeradius 3. 
 
 
 ##Items
@@ -19,11 +19,11 @@ Accounting coutners per 1 sec
 
 * FreeRADIUS-Total-Accounting-Requests 
 * FreeRADIUS-Total-Accounting-Responses 
-*	FreeRADIUS-Total-Acct-Duplicate-Requests 
-*	FreeRADIUS-Total-Acct-Malformed-Requests 
-*	FreeRADIUS-Total-Acct-Invalid-Requests
-*	FreeRADIUS-Total-Acct-Dropped-Requests
-*	FreeRADIUS-Total-Acct-Unknown-Types
+* FreeRADIUS-Total-Acct-Duplicate-Requests 
+* FreeRADIUS-Total-Acct-Malformed-Requests 
+* FreeRADIUS-Total-Acct-Invalid-Requests
+* FreeRADIUS-Total-Acct-Dropped-Requests
+* FreeRADIUS-Total-Acct-Unknown-Types
 	
 
 ##Install
